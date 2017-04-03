@@ -1,0 +1,8 @@
+ERROR  : 09:36:07: Error: Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+FATAL:  password authentication failed for user "postgres"
+
+ERROR  : 09:40:57: Error: Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+FATAL:  password authentication failed for user "postgres"
+
+ERROR  : 09:41:04: Error: Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+FATAL:  password authentication failed for user "postgres"
